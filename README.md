@@ -1,4 +1,4 @@
-🚴‍♂️ Bike Sales Dashboard | Excel Data Analytics Project
+<h1>🚴‍♂️ Bike Sales Dashboard | Excel Data Analytics Project</h1>
 
 📘 Overview:
 
