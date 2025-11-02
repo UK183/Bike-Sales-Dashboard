@@ -80,3 +80,8 @@ Use slicers to interact with the dashboard and explore different customer segmen
 <b>🏷️ Project Type:</b>
 
 Excel | Data Analytics | Dashboard | Visualization | Business Intelligence
+
+### 👤 Author
+[**Kazi Umar**](https://github.com/UK183)<br>
+Linkedin profile: https://www.linkedin.com/in/umar-kazi18  
+💼 Data Analyst | ML Engineer | Data Science & AI Enthusiast | Power BI | Python | SQL
