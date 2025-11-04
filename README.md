@@ -1,4 +1,8 @@
 <h1>🚴‍♂️ Bike Sales Dashboard | Excel Data Analytics Project</h1>
+<div align="center">
+  <img src="Dashboard.PNG" width="100%"/>
+
+</div>
 
 <b>📘 Overview:</b>
 
